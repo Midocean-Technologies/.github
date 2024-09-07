@@ -1,4 +1,4 @@
-## Hi there, We are Midocean Technologies  👋
+## Hi there, We are Midocean Technologies Pvt Ltd 👋
 
 Midocean Technologies Pvt Ltd
 Welcome to Midocean Technologies Pvt Ltd! 
