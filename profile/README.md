@@ -1,6 +1,5 @@
 ## Hi there, We are Midocean Technologies Pvt Ltd 👋
 
-Midocean Technologies Pvt Ltd
 Welcome to Midocean Technologies Pvt Ltd! 
 We are a forward-thinking technology company specializing in ERPNext solutions for diverse industries. 
 With a robust background in ERP implementation and customization, 
